@@ -1,8 +1,26 @@
-# POWER BI PROJECT
+# Air Quality Analysis Dashboard
 
-https://github.com/Adityas266/Air_Quality/assets/108875499/64a6a07f-074d-4892-bba8-5848bce4f3b1
+This project is an Air Quality Analysis Dashboard created using Power BI, focusing on air pollution levels in India.
 
+## Overview
 
+The Air Quality Analysis Dashboard provides insights into air pollution levels across various cities in India. It utilizes data visualization techniques to present air quality metrics such as PM2.5, PM10, and AQI (Air Quality Index) in an easy-to-understand format. The dashboard aims to raise awareness about the severity of air pollution and its impact on public health.
+
+## Features
+
+- **Interactive Dashboard:** Navigate through different cities and time periods to explore air quality trends.
+- **Real-time Data:** Access up-to-date air quality data sourced from reliable sources.
+- **Comparative Analysis:** Compare air quality metrics between different cities and regions.
+- **Forecasting:** Predict future air quality trends based on historical data and environmental factors.
+
+## Usage
+
+1. Open the Power BI file (`Air_Quality_Analysis.pbix`) using Power BI Desktop.
+2. Navigate through the various pages and visuals to explore air quality insights.
+3. Filter the data based on specific cities, time periods, or pollutants of interest.
+4. Use the dashboard to gain a deeper understanding of air pollution trends and patterns in India.
+
+## Screenshots & Working_Video
 ![unnamed](https://github.com/Adityas266/Air_Quality/assets/108875499/fd432638-6a73-492b-9228-9a4b7b9a6c02) ![unnamed (1)](https://github.com/Adityas266/Air_Quality/assets/108875499/9c894a88-0269-4b06-a852-a0116200b30e)
 ![unnamed (2)](https://github.com/Adityas266/Air_Quality/assets/108875499/714abc3c-9e9b-4dc3-8f7d-18c696ca50f9)![unnamed (3)](https://github.com/Adityas266/Air_Quality/assets/108875499/8595a2c8-250b-44b8-88be-8d0c6edb6c9d)
 ![unnamed
