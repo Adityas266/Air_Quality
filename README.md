@@ -15,7 +15,7 @@ The Air Quality Analysis Dashboard provides insights into air pollution levels a
 
 ## Usage
 
-1. Open the Power BI file (`Air_Quality_Analysis.pbix`) using Power BI Desktop.
+1. Open the Power BI file (`PROJECT.pbix`) using Power BI Desktop.
 2. Navigate through the various pages and visuals to explore air quality insights.
 3. Filter the data based on specific cities, time periods, or pollutants of interest.
 4. Use the dashboard to gain a deeper understanding of air pollution trends and patterns in India.
