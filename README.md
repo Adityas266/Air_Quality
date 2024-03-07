@@ -25,8 +25,8 @@ https://github.com/Adityas266/Air_Quality/assets/108875499/0ecacbac-6f75-4973-b4
 
 <div align="left">
   <div>
-  <img src="https://github.com/Adityas266/Air_Quality/assets/108875499/a4406191-0e85-4d65-a263-5324cb63da7a" width="49%" align="left">
-  <img src="https://github.com/Adityas266/Air_Quality/assets/108875499/fd432638-6a73-492b-9228-9a4b7b9a6c02" width="47%" align="right">
+  <img src="https://github.com/Adityas266/Air_Quality/assets/108875499/a4406191-0e85-4d65-a263-5324cb63da7a" width="49%">
+  <img src="https://github.com/Adityas266/Air_Quality/assets/108875499/fd432638-6a73-492b-9228-9a4b7b9a6c02" width="47%">
   </div>
   <div>
   <img src="https://github.com/Adityas266/Air_Quality/assets/108875499/9c894a88-0269-4b06-a852-a0116200b30e" width="49%" align="left">
